@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "course_name": "Web Design And Development",
+        "image": "https://img.freepik.com/free-photo/operation-process-performance-development-icon_53876-16541.jpg?w=740&t=st=1691415820~exp=1691416420~hmac=110b0adc4ceeae2722e0e14588e48da486e57c70b44bb507232b76edf62c66ab",
+        "duration": 6,
+        "lecture": 40,
+        "projects": 10,
+        "price": "50",
+        "enrole_student": 123,
+        "rating": 4.6,
+        "discribtion": "Web developer job is becoming popular day by day as a career option. In this era of internet revolution, websites are increasing day by day. Therefore, according to the increasing demand, the demand for web developers is also increasing. And so various stacks are also becoming popular. If you are lost between different languages and frameworks for frontend-backend of different stacks, then Maroon Stack can be the ideal solution for you."
+    },
+    {
+        "id": 2,
+        "course_name": "Game Development",
+        "image": "https://img.freepik.com/free-photo/shoulder-shot-young-game-developer-working-from-home-while-his-girlfriend-walks-backgorund_482257-22386.jpg?w=826&t=st=1691415916~exp=1691416516~hmac=245847f88a8d7141222170d700f2f56e3a25e47d442b9797de4d157527b494c8",
+        "duration": 6,
+        "lecture": 44,
+        "projects": 12,
+        "price": "70",
+        "enrole_student": 98,
+        "rating": 4.6,
+        "discribtion": "Most courses arm students with the conceptual and technical knowledge needed to advance, including projects for their portfolios and the option to earn a certificate of completion.Below, you'll find some of the best and most affordable options whether you want to dabble in a new hobby or up-skill to stand out in the job market. Courses range in specificity, length, and emphasis to best suit individual needs."
+    },
+    {
+        "id": 3,
+        "course_name": "App Development",
+        "image": "https://img.freepik.com/free-photo/choosing-icons-mobile-app_1098-18639.jpg?w=740&t=st=1691415981~exp=1691416581~hmac=88d8e0c6baa2c8a22bc10543fd88d2893f8e1622ec6405c254d2f8b4a1086823",
+        "duration": 8,
+        "lecture": 48,
+        "projects": 15,
+        "price": "80",
+        "enrole_student": 97,
+        "rating": 4.6,
+        "discribtion": "How would you feel if you start using an app developed by yourself? It sounds more interesting in reality, where you combine the programming language and frameworks to have an excellent outcome. A study shows, the demand for app developers is having an upward trend, which might increase by 24% by 2026. New apps are replacing the old ones with improved features and qualities. If you want to develop such a unique app, this course is for you.."
+    },
+    {
+        "id": 4,
+        "course_name": "Digital Marketing",
+        "image": "https://img.freepik.com/free-photo/group-diverse-people-having-business-meeting_53876-25084.jpg?w=740&t=st=1691416017~exp=1691416617~hmac=39e72a40f873608916826482a1f565868cf3ce6f60a5a28ca20c4c02d82c1ccc",
+        "duration": 5,
+        "lecture": 38,
+        "projects": 7,
+        "price": "40",
+        "enrole_student": 187,
+        "rating": 4.4,
+        "discribtion": "Marketing through digital platforms has become a trendy topic in today’s world. Most of the people navigate online before buying any product. As a result, digital marketing has turned into a smart business strategy capable of drawing potential buyers by product promotion.This upwarding trend of online marketing might hit the mark of 786.2 billion dollar by 2026, estimated the global industry analysts. If you are keen to learn about online marketing strategies, or want to expand your business reach, enroll in this course now."
+    },
+    {
+        "id": 5,
+        "course_name": "Research",
+        "image": "https://img.freepik.com/free-photo/caucasian-male-studying-literature-indoors-library-generated-by-ai_188544-38939.jpg?w=826&t=st=1691416072~exp=1691416672~hmac=461b99beec2b386ede39560f08c9a86adb2f7bb89727e1c96be341ba11cc55f5",
+        "duration": 5,
+        "lecture": 40,
+        "projects": 5,
+        "price": "50",
+        "enrole_student": 65,
+        "rating": 4.4,
+        "discribtion": "This MOOC is about demystifying research and research methods. It will outline the fundamentals of doing research, aimed primarily, but not exclusively, at the postgraduate level. It places the student experience at the centre of our endeavours by engaging learners in a range of robust and challenging discussions and exercises befitting SOAS, University of London's status as a research-intensive university and its rich research heritage."
+    },
+    {
+        "id": 6,
+        "course_name": "Search Engine Optimization",
+        "image": "https://img.freepik.com/free-photo/top-view-cloud-with-word-seo_1134-68.jpg?w=740&t=st=1691416163~exp=1691416763~hmac=4b78fecda17df2a6411786d40e6fa3d8878f8f98fc963abaa94f7df61f17532b",
+        "duration": 4,
+        "lecture": 32,
+        "projects": 10,
+        "price": "45",
+        "enrole_student": 445,
+        "rating": 4.5,
+        "discribtion": "A study shows, almost 76% of people only go through the first page of a website to find the necessary information. You need to know the proper SEO strategies to rank your post or website on the first page of search engines. Our comprehensive SEO course can be your first priority if you want to be a digital marketer."
+    }
+]
